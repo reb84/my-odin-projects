@@ -2,7 +2,7 @@
 
 <p align="center"><img src="./assets/screenshot.png" alt="reb84-the-odin-project-game"/></p>
 
-<p align="center">🎮 <a href="#" target="_blank" rel="noreferrer">
+<p align="center">🎮 <a href="https://rock-paper-scissors-pi-nine-45.vercel.app/" target="_blank" rel="noreferrer">
           PLAY THE GAME
         </a> 🎮</p>
 

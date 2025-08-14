@@ -7,9 +7,9 @@ A collection of projects completed whilst working through [The Odin Project](htt
 ### **Foundations**
 | Project                 | Repository                              | Live Demo  |
 | ----------------------- | --------------------------------------- | ---------- |
-| **Recipes**             | [Code](./foundations/01-recipes)           | [Demo](#)  |
-| **Landing Page**        | [Code](./foundations/02-landing-page)      | [Demo](#)  |
-| **Rock Paper Scissors** | [Code](./foundations/03-rock-paper-scissors) | [Demo](#) |
+| **Recipes**             | [Code](./foundations/01-recipes)           | [Demo](https://recipe-page-one-chi.vercel.app/)  |
+| **Landing Page**        | [Code](./foundations/02-landing-page)      | [Demo](https://odin-landing-page-psi.vercel.app/)  |
+| **Rock Paper Scissors** | [Code](./foundations/03-rock-paper-scissors) | [Demo](https://rock-paper-scissors-pi-nine-45.vercel.app/) |
 
 ### **Full Stack Javascript**
 *Coming soon as I progress through the curriculum...*
