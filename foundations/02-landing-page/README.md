@@ -2,7 +2,7 @@
 
 <p align="center"><img src="./assets/screenshot.png" alt="reb84-the-odin-project-landing-page"/></p>
 
-<p align="center">✨ <a href="https://odin-landing-page-psi.vercel.app/" target="_blank" rel="noreferrer">
+<p align="center">✨ <a href="https://odin-landing-page-psi.vercel.app/"  target="_blank" rel="noopener noreferrer">
           DEMO
         </a> ✨</p>
 
