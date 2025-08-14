@@ -1,0 +1,73 @@
+body {
+    background-color: #f5e6dd;
+    color: #4d4039;
+    width: 700px;
+    margin: 0 auto;
+}
+
+main {
+    margin-top: 60px;
+    text-align: center;
+}
+
+main img {
+    width: 500px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 700px;
+    text-align: center;
+}
+
+a {
+    color: #b48a70;
+}
+
+a:hover {
+    color: #8f5c3d;
+    font-style: italic;
+}
+
+ol li {
+    margin: 10px 0;
+}
+
+.nav-link {
+    width: 80%;
+    background-color: #fff8f3;
+    margin: 10px auto;
+    padding: 12px;
+    text-decoration: none;
+    border-radius: 30px;
+    display: block;
+    text-align: center;
+}
+
+.nav-link:hover {
+    border: 1px solid #8f5c3d;
+}
+
+.recipe {
+    text-align: justify;
+    padding: 40px 0;
+}
+
+.recipe h1 {
+    text-align: center;
+}
+
+.recipe-img {
+    width: 700px;
+    border-radius: 30px;
+    display: block;
+    margin: 0 auto;
+}
+
+.recipe p {
+    border: 1px solid #fff8f3;
+    padding: 20px;
+    border-radius: 30px;
+    font-style: italic;
+}
