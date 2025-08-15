@@ -7,6 +7,4 @@
 
 ✨ [LIVE DEMO](https://odin-landing-page-psi.vercel.app/)
 
----
-
 A simple landing page built with HTML and CSS, styled with Flexbox for responsive design.
