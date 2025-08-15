@@ -14,12 +14,6 @@ main img {
     width: 500px;
 }
 
-footer {
-    position: absolute;
-    bottom: 0;
-    width: 700px;
-    text-align: center;
-}
 
 a {
     color: #b48a70;
@@ -70,4 +64,18 @@ ol li {
     padding: 20px;
     border-radius: 30px;
     font-style: italic;
+}
+
+
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-size: .8rem;
+    letter-spacing: 1px;
+    padding: 14px 0;
+    box-sizing: border-box;
 }

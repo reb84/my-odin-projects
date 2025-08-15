@@ -1,16 +1,12 @@
 # 🍄 Find-A-Fungi Landing Page
 
-<p align="center"><img src="./assets/screenshot.png" alt="reb84-the-odin-project-landing-page"/></p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center">✨ <a href="https://odin-landing-page-psi.vercel.app/"  target="_blank" rel="noopener noreferrer">
-          DEMO
-        </a> ✨</p>
+![Screenshot](assets/screenshot.png)
+
+✨ [LIVE DEMO](https://odin-landing-page-psi.vercel.app/)
 
 ---
 
-A basic landing page built using CSS and HTML. Flexbox is used for responsive design.
-
-## 🛠️ Built with
-
-- HTML
-- CSS
+A simple landing page built with HTML and CSS, styled with Flexbox for responsive design.

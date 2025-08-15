@@ -181,15 +181,21 @@ h2,
 .footer-section {
     background-color: #4b6652;
     padding: 20px;
-    text-align: center;
     color: #f3f0e7;
-    font-size: 0.8em;
+    text-align: center;
 }
 
-.footer-section a {
-    color: #BFA5A0;
+.credit-tag {
+    font-size: .8rem;
+    letter-spacing: 1px;
+    padding: 14px 0;
+    width: 100%;
 }
 
-.footer-section a:hover {
-    color: #c74f46;
+.credit-tag a {
+    color: #f3f0e7;
+}
+
+.credit-tag a:hover {
+    opacity: 0.5;
 }

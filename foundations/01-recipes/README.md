@@ -1,17 +1,11 @@
 # 🍛 Delicious in Dungeon Recipe Page
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center"><img src="./assets/screenshot.png" alt="reb84-the-odin-project-recipe-page"/></p>
+![Screenshot](assets/screenshot.png)
 
-<p align="center">✨ <a href="https://recipe-page-one-chi.vercel.app/"  target="_blank" rel="noopener noreferrer">
-          DEMO
-        </a> ✨</p>
+✨ [LIVE DEMO](https://recipe-page-one-chi.vercel.app)
 
 ---
 
-A simple recipe page built using basic CSS and HTML.
-
-## 🛠️ Built with
-
-- HTML
-- CSS
- 
+A simple recipe page.
